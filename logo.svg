@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Zurich Apartment Hunter">
+  <!-- Bildmarke: Grossmünster-Doppeltürme als Hausdach + Lupe -->
+  <rect width="64" height="64" rx="16" fill="#0a3d91"/>
+  <path d="M14 50V27l7-10 7 10v23" fill="none" stroke="#fff" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M28 50V27l7-10 7 10v8" fill="none" stroke="#fff" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M10 50h22" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+  <rect x="18.5" y="34" width="5" height="7" rx="2.5" fill="#fff"/>
+  <circle cx="44" cy="44" r="7.5" fill="#0a3d91" stroke="#0fbfa6" stroke-width="4"/>
+  <path d="M49.5 49.5L55 55" stroke="#0fbfa6" stroke-width="4.5" stroke-linecap="round"/>
+</svg>
